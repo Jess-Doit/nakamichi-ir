@@ -59,7 +59,7 @@ raw pulse timings.
 The captures use the NEC infrared protocol in Flipper's parsed signal format.
 
 - `Nakamichi_RM-7C.ir` contains 8 signals using NEC address `67`.
-- `Nakamichi_RM-2TA.ir` contains 35 signals.
+- `Nakamichi_RM-2TA.ir` contains 33 signals.
 	- NEC address `5C` is used for power, amplifier, tape, and tuner functions.
 	- NEC address `67` is used for CD functions.
 
