@@ -1,0 +1,200 @@
+Filetype: IR signals file
+Version: 1
+# 
+name: Power
+type: parsed
+protocol: NEC
+address: 5C 00 00 00
+command: 00 00 00 00
+# 
+name: Mute
+type: parsed
+protocol: NEC
+address: 5C 00 00 00
+command: 01 00 00 00
+# 
+name: Vol Down
+type: parsed
+protocol: NEC
+address: 5C 00 00 00
+command: 03 00 00 00
+# 
+name: Vol Up
+type: parsed
+protocol: NEC
+address: 5C 00 00 00
+command: 02 00 00 00
+# 
+name: Input Phono
+type: parsed
+protocol: NEC
+address: 5C 00 00 00
+command: 44 00 00 00
+# 
+name: Input CD
+type: parsed
+protocol: NEC
+address: 5C 00 00 00
+command: 45 00 00 00
+# 
+name: Input Tuner
+type: parsed
+protocol: NEC
+address: 5C 00 00 00
+command: 46 00 00 00
+# 
+name: Input Video
+type: parsed
+protocol: NEC
+address: 5C 00 00 00
+command: 47 00 00 00
+# 
+name: Input Tape
+type: parsed
+protocol: NEC
+address: 5C 00 00 00
+command: 49 00 00 00
+# 
+name: Tape RW
+type: parsed
+protocol: NEC
+address: 5C 00 00 00
+command: 55 00 00 00
+# 
+name: Tape FF
+type: parsed
+protocol: NEC
+address: 5C 00 00 00
+command: 54 00 00 00
+# 
+name: Tape Rev
+type: parsed
+protocol: NEC
+address: 5C 00 00 00
+command: 58 00 00 00
+# 
+name: Tape Play
+type: parsed
+protocol: NEC
+address: 5C 00 00 00
+command: 15 00 00 00
+# 
+name: Tape Rec
+type: parsed
+protocol: NEC
+address: 5C 00 00 00
+command: 14 00 00 00
+# 
+name: Tape Cue
+type: parsed
+protocol: NEC
+address: 5C 00 00 00
+command: 56 00 00 00
+# 
+name: Tape Stop
+type: parsed
+protocol: NEC
+address: 5C 00 00 00
+command: 17 00 00 00
+# 
+name: Tape Pause
+type: parsed
+protocol: NEC
+address: 5C 00 00 00
+command: 16 00 00 00
+# 
+name: CD RW
+type: parsed
+protocol: NEC
+address: 67 00 00 00
+command: C1 00 00 00
+# 
+name: CD FF
+type: parsed
+protocol: NEC
+address: 67 00 00 00
+command: C7 00 00 00
+# 
+name: CD Prev
+type: parsed
+protocol: NEC
+address: 67 00 00 00
+command: C2 00 00 00
+# 
+name: CD Next
+type: parsed
+protocol: NEC
+address: 67 00 00 00
+command: C8 00 00 00
+# 
+name: CD Disc Scan
+type: parsed
+protocol: NEC
+address: 67 00 00 00
+command: 93 00 00 00
+# 
+name: CD Stop
+type: parsed
+protocol: NEC
+address: 67 00 00 00
+command: C5 00 00 00
+# 
+name: CD Pause
+type: parsed
+protocol: NEC
+address: 67 00 00 00
+command: CB 00 00 00
+# 
+name: CD Play
+type: parsed
+protocol: NEC
+address: 67 00 00 00
+command: C6 00 00 00
+# 
+name: CD Random
+type: parsed
+protocol: NEC
+address: 67 00 00 00
+command: DB 00 00 00
+# 
+name: CD Disc
+type: parsed
+protocol: NEC
+address: 67 00 00 00
+command: 8F 00 00 00
+# 
+name: T Preset Dn
+type: parsed
+protocol: NEC
+address: 5C 00 00 00
+command: 13 00 00 00
+# 
+name: T Preset Up
+type: parsed
+protocol: NEC
+address: 5C 00 00 00
+command: 12 00 00 00
+# 
+name: T AM
+type: parsed
+protocol: NEC
+address: 5C 00 00 00
+command: 06 00 00 00
+# 
+name: T FM
+type: parsed
+protocol: NEC
+address: 5C 00 00 00
+command: 07 00 00 00
+# 
+name: T Seek Dn
+type: parsed
+protocol: NEC
+address: 5C 00 00 00
+command: 05 00 00 00
+# 
+name: T Seek Up
+type: parsed
+protocol: NEC
+address: 5C 00 00 00
+command: 04 00 00 00
